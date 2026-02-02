@@ -11,9 +11,9 @@
 
 | 메인 대시보드 및 조회 | 팩스 인식 결과 | 
 | :---: | :---: |
-| <img width="2560" height="1392" alt="image" src="https://github.com/user-attachments/assets/bfdb2a07-80ba-4e72-b7fc-6c2a2d238b1b" />| <img width="2560" height="1392" alt="스크린샷 2026-02-02 212619" src="https://github.com/user-attachments/assets/ec10f627-19a7-4adc-bced-e421f30cbd56" />|
+| <img width="2560" height="1392" alt="스크린샷 2026-02-02 210018" src="https://github.com/user-attachments/assets/60aa6288-cdf0-4e55-932a-528f933ec267" />| <img width="2560" height="1392" alt="스크린샷 2026-02-02 212619" src="https://github.com/user-attachments/assets/be09c452-31e8-4817-9d47-0a2115b843f6" />|
 | **누적 내역 조회 화면** | **OCR 인식 및 파싱 결과** |
-|<img width="2560" height="1392" alt="image" src="https://github.com/user-attachments/assets/6344cc1a-7372-4835-ba1e-5a4f006f79bb" />|<img width="2560" height="1392" alt="스크린샷 2026-02-02 212645" src="https://github.com/user-attachments/assets/126e6ed9-4dfa-41b5-aea2-890e2d913192" />|
+|<img width="2560" height="1392" alt="스크린샷 2026-02-02 212645" src="https://github.com/user-attachments/assets/71bf7ad0-d33b-4c3b-b647-149c5c320bbe" />|<img width="2560" height="1392" alt="스크린샷 2026-02-02 213028" src="https://github.com/user-attachments/assets/585563c5-239d-40f7-9d94-ea467cdc639f" />|
 <br>
 
 ## 프로젝트 개요 (Overview)
